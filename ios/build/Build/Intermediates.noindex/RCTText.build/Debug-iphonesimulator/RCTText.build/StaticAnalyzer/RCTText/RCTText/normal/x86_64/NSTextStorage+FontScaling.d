@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/keilahoover/SpringTime/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
+  /Users/keilahoover/SpringTime/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
